@@ -13,7 +13,7 @@ https://github.com/user-attachments/assets/cca421c5-222f-4e06-a4f9-ceeacd45bf41
 
 
 ## Web Link
-voice-five-chi.vercel.app
+https://voice-five-chi.vercel.app
 
 
 ---
